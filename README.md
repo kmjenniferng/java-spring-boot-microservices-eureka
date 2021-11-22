@@ -1,8 +1,8 @@
-# Register application on Spring Eureak server using Spring Boot
+# Register application on Spring Eureka server using Spring Boot
 
 The purpose of this project is to 
 1. create a simple shopping application which contains payment-service and amazon-shopping services
-2. register the application on Spring Cloud Eureka server using Eureak registry service
+2. register the application on Spring Cloud Eureka server using Eureka registry service
 3. access microservices using RESTful APIs
 
 ## Application Architecture
